@@ -1,0 +1,24 @@
+---
+title: "Assignment 06: Coordinate Systems"
+author: "Bryce Hales"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Coordinate Systems
+
+Practice R Markdown file for coordinate systems coursework.
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
