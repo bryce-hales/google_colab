@@ -1,10 +1,10 @@
-# Google Colab Notebooks and Data Technology Coursework
+# Data Technology Coursework Portfolio
 
-This repository is a collection of Google Colab notebooks, spreadsheet labs, datasets, and practice files used for data technology coursework and hands-on analytics learning.
+This repository is a collection of Google Colab notebooks, spreadsheet labs, SQL assignments, datasets, and practice files used for data technology coursework and hands-on analytics learning.
 
 ## Purpose
 
-The goal of this repo is to organize coursework and notebook-based projects while showing practical experience with Python, spreadsheets, statistics, data analysis tools, and repeatable workflows.
+The goal of this repo is to organize coursework and project artifacts while showing practical experience with Python, spreadsheets, SQL, statistics, data analysis tools, and repeatable workflows.
 
 ## Repository Structure
 
@@ -13,10 +13,11 @@ The goal of this repo is to organize coursework and notebook-based projects whil
 | `Python_Day_09_Notes_Functions.ipynb` | Python practice notebook using Google Colab, NumPy, pandas, and a sample Titanic dataset to work through data loading, DataFrame inspection, and function-focused practice. |
 | `coursework/datasets/iris.csv` | Iris dataset used for statistics, scatter plot, and classification-style practice. |
 | `coursework/statistics-spreadsheets/` | Spreadsheet coursework notes and assignment inventory for statistics and data analysis labs. |
+| `coursework/sql/` | SQL coursework, query assignments, lab scripts, query result exports, and notes about local database resources. |
 
-## Spreadsheet Coursework Areas
+## Coursework Areas
 
-The spreadsheet coursework set includes assignments and labs covering:
+### Spreadsheet and Statistics
 
 - Descriptive statistics
 - Histograms and frequency distributions
@@ -24,9 +25,21 @@ The spreadsheet coursework set includes assignments and labs covering:
 - T-tests
 - ANOVA
 - Hypothesis testing
-- Scatter plots
+- Correlation and scatter plots
+- Linear regression
 - Pivot tables
 - Basic spreadsheet data cleaning and formulas
+
+### SQL and Databases
+
+- Basic SQL syntax
+- SELECT queries
+- Filtering with WHERE
+- Sorting and limiting records
+- Aggregate functions
+- GROUP BY and HAVING
+- Query templates and completed assignment scripts
+- Working with local SQLite/sample databases in DBeaver
 
 ## Skills Practiced
 
@@ -36,6 +49,7 @@ The spreadsheet coursework set includes assignments and labs covering:
 - CSV data imports
 - DataFrame inspection and exploration
 - Spreadsheet analysis
+- SQL querying
 - Descriptive and inferential statistics
 - Data visualization
 - Pivot tables
