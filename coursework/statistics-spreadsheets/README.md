@@ -18,11 +18,9 @@ This folder documents spreadsheet-based assignments and practice files from the 
 
 ## Assignment Inventory
 
-The following files were provided for this coursework set and are good candidates to store here as original assignment artifacts or converted/sanitized copies:
-
-| File | Suggested Purpose |
+| File | Topic |
 | --- | --- |
-| `Lab 06 Histograms.xlsx` | Histogram and distribution practice. |
+| `Lab 06 Histograms.xlsx` | Histograms and distribution analysis. |
 | `Lab 10 One Sample Z Test.xlsx` | One-sample z-test practice. |
 | `Lab 11 Conducting a T-Test.xlsx` | T-test practice. |
 | `Lab 12 ANOVA Diet Data.xlsx` | ANOVA practice using diet data. |
@@ -32,21 +30,16 @@ The following files were provided for this coursework set and are good candidate
 | `Assignment 06 Correlation and Scatter Plots.xlsx` | Correlation and scatter plot assignment. |
 | `Titanic_Pivot_Lab.xlsx` | Pivot table practice using Titanic data. |
 | `Hybrid 01 Insurance Charges.xlsx` | Hybrid assignment using insurance charge data. |
-| `Language Learning App Data.xlsx` | Spreadsheet/data analysis practice using app data. |
+| `Language Learning App Data.xlsx` | Spreadsheet and data analysis practice using app data. |
 | `Car Inventory(Car Inventory)1.xlsx` | Inventory spreadsheet practice. |
-| `oxford_comma_xlsx.xlsx` | Spreadsheet cleaning or formatting practice. |
-| `Book2.xlsx` | General workbook/practice file. |
+| `oxford_comma_xlsx.xlsx` | Spreadsheet cleaning and formatting practice. |
+| `Book2.xlsx` | General workbook practice. |
 
-## Suggested Portfolio Use
+## Methods and Tools
 
-These files are useful as evidence of spreadsheet and statistics practice, but the strongest portfolio version would pair the original workbook with a short summary explaining:
-
-- The objective of the lab or assignment
-- The dataset used
-- The statistical method or visualization created
-- The main takeaway or result
-- Any formulas, charts, or spreadsheet features used
-
-## Notes
-
-For a public portfolio, keep only school-safe files and sample data here. Any work files, sensitive business data, or non-public datasets should stay out of this public repository or be replaced with sanitized versions.
+- Spreadsheet formulas
+- Summary statistics
+- Charts and visualizations
+- Pivot tables
+- Statistical testing workflows
+- Data cleaning and formatting
