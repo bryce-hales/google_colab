@@ -6,6 +6,9 @@ This file documents Power BI coursework artifacts represented as public-facing M
 
 | Original File | Format | Topic |
 | --- | --- | --- |
+| `bloodwork_bryce_hales_assignment_01.pbix` | PBIX | Healthcare-style Power BI report using bloodwork and patient datasets. |
+| `bloodwork.pbix` | PBIX | Bloodwork Power BI report file. |
+| `bloodwork.pbix 2` | PBIX | Additional or revised bloodwork Power BI report file. |
 | `Assignment 02 - Statistical Charts.pbix` | PBIX | Power BI report file for statistical charts using weather data. |
 | `Assignment 03 - Filters and Chart Creation.pbix` | PBIX | Power BI report file for filters, charts, slicers, category analysis, and time-based sales visuals. |
 | `project 01 flights analysis.pbix` | PBIX | Power BI flight analysis project. |
@@ -37,6 +40,13 @@ This file documents Power BI coursework artifacts represented as public-facing M
 
 | Original File | Format | Topic |
 | --- | --- | --- |
+| `bloodwork.csv` | CSV | Lab work, billing, diagnosis, stay length, BMI, severity, insurance coverage, and prescriptions. |
+| `patients.csv` | CSV | Patient demographic and insurance-style fields. |
+| `employees.csv` | CSV | Employee roles and hourly rates used in coursework practice. |
+| `products.csv` | CSV | Product catalog sample used in coursework practice. |
+| `flights.csv` | CSV | Flight analysis dataset. |
+| `airlines.csv` | CSV | Airline code lookup dataset. |
+| `airports.csv` | CSV | Airport lookup dataset. |
 | `seattle_weather.csv` | CSV | Weather dataset used for statistical charts. |
 | `superstore.csv` | CSV | Sales dataset used for category, sub-category, product, customer, and date analysis. |
 | `transactions.csv` | CSV | Transaction dataset for practice analysis. |
