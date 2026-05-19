@@ -4,7 +4,7 @@ This repository is a collection of Google Colab notebooks, spreadsheet labs, SQL
 
 ## Purpose
 
-The goal of this repo is to organize coursework and project artifacts while showing practical experience with Python, spreadsheets, SQL, statistics, data analysis tools, and repeatable workflows.
+The goal of this repository is to organize coursework and project artifacts while demonstrating practical experience with Python, spreadsheets, SQL, statistics, data analysis tools, and repeatable workflows.
 
 ## Repository Structure
 
@@ -55,9 +55,3 @@ The goal of this repo is to organize coursework and project artifacts while show
 - Pivot tables
 - Function-based coding practice
 - Notebook and project documentation
-
-## Portfolio Notes
-
-This repo is intended to grow as additional coursework, cleaned projects, and practice notebooks are added. It is structured as a learning portfolio and should only contain public, sample, or non-sensitive data.
-
-For employer-facing use, larger projects should eventually be broken into their own polished repositories with a focused README, screenshots, project summary, tools used, and key findings.
